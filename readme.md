@@ -3,14 +3,14 @@
 > [!NOTE]
 > Esto es una nota
 
-> ˍ[!TIP]ˍ
+> [!TIP]
 > Tip para el lector.
 
-> ˍ[!IMPORTANT]ˍ
-> Crucial information necessary for users to succeed.
-> 
-> ˍ[!WARNING]ˍ  
+> [!IMPORTANT]
+> Esto es importante
+
+> [!WARNING]  
 > Peligro.
 
-> ˍ[!CAUTION]ˍ
+> [!CAUTION]
 > Cuidado no hagas esto.
