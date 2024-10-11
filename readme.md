@@ -1,6 +1,6 @@
 # Anotaciones github
 
-> ˍ[!NOTE]ˍ
+> [!NOTE]
 
 > Esto es una nota
 
